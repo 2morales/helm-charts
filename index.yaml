@@ -9,6 +9,6 @@ entries:
     name: webgoat
     type: application
     urls:
-    - https://interew.xyz/helm-chart/webgoat-0.1.0.tgz
+    - https://morales.ninja/helm-chart/webgoat-0.1.0.tgz
     version: 0.1.0
 generated: "2023-09-13T16:57:21.618760562Z"
