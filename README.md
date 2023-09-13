@@ -3,4 +3,6 @@ personal repo demo
 
 ## usage
 
-https://interew.xyz/helm-charts/
+https://morales.ninja/helm-charts/
+
+web skills
